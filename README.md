@@ -36,6 +36,7 @@ Examples of unacceptable behavior include:
   without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+* If there is a feature you want to be added, be patient, or be willing to put in the effort to make it possible. Do not demand that others do the work for you.
 
 ## Enforcement Responsibilities
 
