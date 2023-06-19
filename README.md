@@ -34,6 +34,7 @@ Examples of unacceptable behavior include:
 * Public or private harassment
 * Publishing others' private information, such as a physical or email address,
   without their explicit permission
+* Demanding others do work for you. Instead, either ask nicely and be patient, or put in the effort to make it possible. 
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
