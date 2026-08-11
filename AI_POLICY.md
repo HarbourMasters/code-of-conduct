@@ -33,7 +33,7 @@ Anyone can write a prompt. What did you bring to the table?
 - Clearly disclose whether AI was used and to what extent, so reviewers can calibrate their expectations and everyone stays on the same page.
 
 ### Quality
-- Pull Request descriptions should be hand written. If you don't have enough energy to write out a description and instead paste a massive AI generated block, we will not have the energy to read it. You can paste AI generated blocks of text in `<details>` collapsibles with a disclosure that it was written by AI.
+- Pull Request descriptions should be deliberate. It is OK to use AI to help generate descriptions, but you should read, understand, and agree with what you submit. The rules about disclosure still apply here, if you use AI to help generate a PR description that should be clear. If you'd like to provide additional AI generated context you haven't reviewed carefully, you can paste AI generated blocks of text in `<details>` collapsibles with a disclosure that it was written by AI.
 - All code should follow the patterns established within the codebase, consistency is key.
 - Contributions should be small and limited in scope, we will very likely immediately close anything that is over a thousand LoC change.
 - We expect all contributions to be thoroughly tested. This should be common sense but you'd be surprised.
