@@ -17,7 +17,7 @@ On one hand, AI tools have made it easier than ever for anyone to produce substa
 In order to maintain that quality and ensure maintainers can continue to effectively review contributions, we have implemented the following policy in regards to use of AI tools for contributing to HM projects.
 
 ## The Policy
-Harbour Masters is not an *Anti AI* organization, *however*, we are *Anti Slop*. 
+Harbour Masters is not an *Anti AI* organization, *however*, we are *Anti Slop[^1]*.
 
 "AI" is a very broad term, and can describe everything from an editor’s tab completion finishing a loop for you, to consulting ChatGPT for advice, to giving Claude a single prompt and having it build an entire game without ever looking at a single line of code.
 
@@ -49,4 +49,6 @@ Anyone can write a prompt. What did you bring to the table?
 - We expect all contributions to be thoroughly tested. This should be common sense but you'd be surprised.
 - Today's AI models have a tendency to over abstract and over explain:
     - If a block of code is not used in 3 or more places, it probably doesn't need to be split out into a separate function.
-    - Comments should be used sparingly and only to briefly explain "why" the code is doing something or side effects, not "what" it's doing. The variable and function names should be clear enough to explain to the reviewer what is going on. 
+    - Comments should be used sparingly and only to briefly explain "why" the code is doing something or side effects, not "what" it's doing. The variable and function names should be clear enough to explain to the reviewer what is going on.
+
+[^1]: Harbour Masters defines **slop** as code of low quality that reduces the maintainability of the project. This includes (but is not limited to) code that is overly verbose, overly complex, brittle/bug-prone, or consisting of superfluous changes.  
