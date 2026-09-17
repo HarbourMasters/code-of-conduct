@@ -1,6 +1,16 @@
 # Harbour Masters AI Policy
 *This policy applies to all individuals who contribute, maintain, or review code under the Harbour Masters Organization.*
 
+> [!IMPORTANT]
+> This policy applies to code contributions *only*.
+> 
+> ***No*** generative AI use is allowed in the creation of any non-code contributions.
+>
+> This includes (but is not limited to):
+> * Textures
+> * Models
+> * Audio assets (such as music or sounds)
+
 ## Why have an AI Policy?
 On one hand, AI tools have made it easier than ever for anyone to produce substantial changes to a codebase, regardless of their prior software experience. On the other hand, our community has grown to expect high quality, polished, and bug-free software. 
 
